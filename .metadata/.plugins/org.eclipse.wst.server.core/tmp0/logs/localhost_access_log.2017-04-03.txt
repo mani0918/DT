@@ -1,0 +1,8 @@
+127.0.0.1 - - [03/Apr/2017:11:36:51 +0530] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [03/Apr/2017:11:36:53 +0530] "GET /ShoppingCartFrontEnd/ HTTP/1.1" 404 1094
+127.0.0.1 - - [03/Apr/2017:11:38:23 +0530] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [03/Apr/2017:11:38:23 +0530] "GET /ShoppingCartFrontEnd/ HTTP/1.1" 404 1094
+127.0.0.1 - - [03/Apr/2017:11:40:21 +0530] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [03/Apr/2017:11:40:24 +0530] "GET /ShoppingCartFrontEnd/ HTTP/1.1" 200 287
+0:0:0:0:0:0:0:1 - - [03/Apr/2017:11:58:14 +0530] "GET /ShoppingCartFrontEnd/ HTTP/1.1" 200 287
+0:0:0:0:0:0:0:1 - - [03/Apr/2017:12:07:49 +0530] "GET /ShoppingCartFrontEnd/WEB-INF/views/Home.jsp HTTP/1.1" 404 1050

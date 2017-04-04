@@ -1,0 +1,5 @@
+127.0.0.1 - - [28/Mar/2017:00:11:00 +0530] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [28/Mar/2017:00:11:00 +0530] "GET /LoginApp/WEB-INF/classes/com/niit/loginapp/dao/LoginDao.java HTTP/1.1" 404 1050
+0:0:0:0:0:0:0:1 - - [28/Mar/2017:00:11:22 +0530] "GET /LoginApp/WEB-INF/classes/com/niit/loginapp/dao/LoginDao.java HTTP/1.1" 404 1050
+0:0:0:0:0:0:0:1 - - [28/Mar/2017:00:11:44 +0530] "GET /LoginApp/Login.html HTTP/1.1" 200 301
+0:0:0:0:0:0:0:1 - - [28/Mar/2017:00:11:55 +0530] "POST /LoginApp/LoginServlet HTTP/1.1" 200 149
