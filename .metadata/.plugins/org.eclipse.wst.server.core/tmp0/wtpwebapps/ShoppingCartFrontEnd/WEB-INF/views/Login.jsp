@@ -11,14 +11,13 @@
   <form class="form-horizontal">
     <div class="form-group">
       <label class="control-label col-sm-2" for="username"><span class="glyphicon glyphicon-envelope"></span>Username:</label>
-      <div class="col-sm-10">
-      
+      <div class="col-sm-6">
         <input type="email" class="form-control" id="username" placeholder="Enter username">
       </div>
     </div>
     <div class="form-group">
       <label class="control-label col-sm-2" for="pwd"><span class="glyphicon glyphicon-lock"></span>Password:</label>
-      <div class="col-sm-10">          
+      <div class="col-sm-6">          
         <input type="password" class="form-control" id="pwd" placeholder="Enter password" required >
         
       </div>

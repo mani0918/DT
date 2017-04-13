@@ -21,8 +21,11 @@ public class HomeController{
 		
 		return mv;
 	}
-	
-	
+	@RequestMapping("/home")
+	public String home()
+	{
+		return "Home";
+	}
 	@RequestMapping("/LoginPage")
 	public String loginPage(Model model)
 	{

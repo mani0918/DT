@@ -56,12 +56,14 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.niit.mobitel"/>
 			<item value="com.niit.shoppingcart"/>
 		</list>
 		<list key="groupId">
 			<item value="com.niit"/>
 		</list>
 		<list key="artifactId">
+			<item value="Mobitel"/>
 			<item value="ShoppingCartBackEnd"/>
 			<item value="ShoppingCartFrontEnd"/>
 		</list>
