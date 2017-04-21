@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="UserDAOTestCase" project="ShoppingCartBackEnd" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.niit.shoppingcart.UserDAOTestCase" time="1.176">
+    <testcase name="createUserTestCase" classname="com.niit.shoppingcart.UserDAOTestCase" time="1.176"/>
+  </testsuite>
+</testrun>

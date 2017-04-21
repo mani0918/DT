@@ -1,0 +1,35 @@
+package com.niit.shoppingcart.dao;
+
+import java.util.List;
+
+import com.niit.shoppingcart.domain.User;
+
+public interface UserDAO {
+
+	
+	
+	//declare the methods
+	//what type of operations you are going to do for user.
+	
+	
+	//operations
+	//1) create/register- save
+	//2 update the user details - update
+	//3 validate the credentials- validate
+	//4 get all users  - list
+	
+	//declare the methods with proper signature
+	//access_specifier return_type methodName(parameter_list) throws exception_list
+	
+	
+	public boolean save(User user);
+	
+	public boolean update(User user);
+	
+	public boolean validate(String id, String password);
+	
+	public List<User>   list();
+	
+	
+	
+}
