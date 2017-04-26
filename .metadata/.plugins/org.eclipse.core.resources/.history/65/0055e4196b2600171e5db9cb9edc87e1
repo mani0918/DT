@@ -1,0 +1,11 @@
+package com.niit.shoppingcart.domain;
+
+import javax.persistence.Entity;
+
+import org.springframework.stereotype.Component;
+@Entity
+@table (name="category")
+@Component
+public class Category {
+
+}

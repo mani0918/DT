@@ -1,0 +1,5 @@
+package com.niit.shoppingcart.domain;
+
+public class MyCart {
+	ID USER_ID PRODUCT_NAME PRICE STATUS DATE_ADDED QUANTITY 
+}

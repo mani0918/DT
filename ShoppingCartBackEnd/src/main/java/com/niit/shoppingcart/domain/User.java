@@ -9,7 +9,7 @@ import javax.validation.constraints.NotNull;
 import org.springframework.stereotype.Component;
 
 @Entity // to map to data base table
-@Table(name = "user") // if the table name and domain class name is different
+@Table(name = "User") // if the table name and domain class name is different
 @Component   //context.scan("com.niit") will scan the package and create instance
 public class User {
 
