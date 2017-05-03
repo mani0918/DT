@@ -1,5 +1,0 @@
-package com.nit.shoppingcart.daoimpl;
-
-public class UserDAOImpl {
-
-}

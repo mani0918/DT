@@ -1,7 +1,0 @@
-package com.niit.shoppingcart.domain;
-@Entity
-@Table(name="Supplier")
-@Component
-public class Supplier {
-
-}
